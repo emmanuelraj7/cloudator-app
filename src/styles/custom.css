@@ -1,0 +1,856 @@
+
+.navbar.main{
+    height: 75px;
+    background: white;
+    margin-bottom: 0px;
+}
+
+.container-fluid{
+    margin-top: 70px;
+    background-color: orange;
+    height: 5px;
+}
+
+
+
+.background{
+   margin-top:0px;
+
+
+}
+
+.buttons{
+    margin-top: 30px;
+}
+
+
+.caption{
+    margin-left: 100px;
+    margin-top: 80px;
+    font-size: 2em;
+    color: white;
+    font-weight: bold;
+    
+}
+
+.subcaption {
+    margin-left: 150px;
+    font-size: 1.2em;
+    color: white;
+    font-weight: thin;
+    margin-top: -10px;
+    font-family: 'Exo', sans-serif;
+}
+
+
+
+#firstbutton {
+    width: 250px;
+    margin-top: 0px;
+    margin-left: 70px;
+    height: 40px;
+    background-color: orangered;
+    color: white;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-style: none;
+
+    font-family: 'Exo', sans-serif;
+}
+
+
+#secondbutton {
+    width: 250px;
+    margin-top: 20px;
+    margin-left: 70px;
+    height: 40px;
+    background-color: orangered;
+    color: white;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    font-family: 'Exo', sans-serif;
+    border-style: none;
+}
+
+.graphicsframe{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+
+.graphicsimg1 {
+    margin-left: 0px;
+    margin-top: 0px;
+    height: 80px;
+}
+
+.graphicsimg2 {
+    margin-left: 0px;
+    margin-top: 0px;
+    height: 80px;
+}
+
+
+.graphicsimg3 {
+    margin-left: 0px;
+    margin-top: 10px;
+    height: 90px;
+}
+
+.logo{
+    margin-left: 20px;
+    margin-top: -5px;
+    height: 50px;
+}
+
+.subheading{
+margin-left: 20px;
+color: white;
+}
+
+#cityname{
+    margin-left: 20px;
+    margin-top: -20px;
+    width: 200px;
+    border-color: none;
+    color: orangered;
+    height: 30px;
+    font-family: 'Exo', sans-serif;
+    border-left-color: orangered;
+}
+
+#livebutton{
+    background-color: orangered;
+    color: white;
+    font-family: 'Exo', sans-serif;
+    margin-left: 5px;
+    width: 50px;
+    height: 32px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+
+
+
+.Range1{
+    width: 200px;
+    margin-left: 40px;
+    margin-top: 0px; 
+
+}
+
+.Range2{
+    width: 200px;
+    margin-left: 40px;
+    margin-top: 0px; 
+}
+
+#sliderval1 {
+    color: white;
+    margin-left: 260px;
+    margin-top: -50px;
+    margin-bottom: 40px;
+    color: white;
+    font-family: 'Exo', sans-serif;
+}
+
+#sliderval2 {
+    color: white;
+    margin-left: 260px;
+    margin-top: -50px;
+    margin-bottom: 40px;
+    color: white;
+    font-family: 'Exo', sans-serif;
+}
+
+.selectedcities{
+    margin-left:40px;
+    margin-top: 30px;
+
+}
+
+
+
+.result1{
+    float: left;
+    color: white;
+    margin-left: -280px;
+    margin-top: 90px;
+    font-size: 0.8em;
+}
+
+
+.closex{
+    margin-left:70px;
+    font-size: 0.8em;
+}
+
+#put1{
+    width: 30px;
+    border-color: transparent;
+    float: left;
+    margin-left: 220px;
+    margin-top: -30px;  
+    background-color: transparent;
+}
+
+#put2{
+    width: 30px;
+    border-color: transparent;
+    float: left;
+    margin-left: 220px;
+    margin-top: -30px;
+    background-color: transparent;
+    
+}
+
+.subheading3 {
+    margin-left: 20px;
+    margin-top: 150px;
+    font-family: 'Exo', sans-serif;
+    color: white;
+}
+
+
+#daysselector{
+    margin-left: 20px;
+    margin-top: 0px;
+}
+
+
+.subheading2{
+    color: white;
+    margin-left: 40px;
+    font-style: italic;
+}
+
+.Range1{
+    color:white;
+}
+
+.Range2{
+    color:white;
+}
+
+.contentboxc1{
+    margin-left: 20px;
+}
+
+.contentboxc2 {
+    margin-left: 0px;
+    margin-top: -180px;
+}
+
+
+.subheading{
+    margin-top: 20px;
+    font-family: 'Exo', sans-serif;
+}
+
+.subheading1{
+    color: white;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+#livecity{
+    margin-left: 40px;
+    margin-top: 50px;
+    width: 250px;
+    border-color: none;
+    color: orangered;
+    height: 30px;
+    
+}
+
+
+#output1{
+    margin-left: 120px;
+    margin-top: 30px;
+    font-family: 'Exo', sans-serif;
+    font-size: 1.5em;
+}
+
+#output2{
+    margin-left: 150px;
+    margin-top: 30px;
+    font-family: 'Exo', sans-serif;
+    font-size: 1.5em;
+}
+
+#output3{
+    margin-left: 50px;
+    margin-top: 30px;
+    font-weight: bold;
+    font-family: 'Exo', sans-serif;
+}
+
+
+#output4{
+   margin-left: 240px;
+   margin-top: -20px;
+   font-family: 'Exo', sans-serif;
+   white-space: nowrap;
+  
+}
+
+
+.weatheroutput {
+    color: white;
+    white-space: nowrap;
+}
+
+.list-group-item{
+    width: 200px;
+    background-color: pink;
+    font-family: 'Exo', sans-serif;
+    margin-left: 50px;
+}
+
+
+
+.tests{
+    color: white;
+  
+}
+
+.resultheading{
+    color: orangered;
+    font-size: 1.3em;
+}
+
+.resultday1{
+    margin-left: 70px;
+    font-family: 'Exo', sans-serif;
+    font-size: 1.0em;
+}
+
+.resultday2{
+    margin-left: 240px;
+    font-family: 'Exo', sans-serif;
+    font-size: 1.0em;
+    margin-top: -130px;
+}
+
+.resultday3{
+    margin-left: 70px;
+    font-family: 'Exo', sans-serif;
+    font-size: 1.0em;
+    margin-top: 0px;
+}
+
+
+.resultday4{
+    margin-left: 240px;
+    font-family: 'Exo', sans-serif;
+    font-size: 1.0em;
+    margin-top: -130px;
+}
+
+.delete1{
+    color: green;
+    margin-right: 20px;
+    font-size: 0.7em;
+    float: right;
+    margin-top: 5px;
+    
+}
+
+.delete{
+    color: red;
+    font-family: 'Exo', sans-serif;
+}
+
+#daysselector{
+    background-color: white;
+    width: 50px;
+}
+
+
+.cities-list{
+    height: 40px;
+    width: 200px;
+    background-color: white;
+    padding-top: 5px;
+    padding-left: 10px;
+    border-color: grey;
+    border-style: solid;
+    border-top-color: grey;
+    border-left-color: red;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+    font-family: 'Exo', sans-serif;
+    font-size: 1.3em;
+    
+}
+
+
+.contentboxc3{
+margin-left: 0px;
+margin-top: 0px;
+}
+
+
+#get1{
+    width: 280px;
+    cursor: pointer;
+}
+
+#get2{
+    width: 280px;
+    cursor: pointer;
+}
+
+#parameter{
+    font-family: 'Exo', sans-serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.resultscities{
+    color: white;
+    font-family: 'Exo', sans-serif;
+    font-size: 1.0em;
+    margin-top: 115px;
+    margin-left: 40px;
+}
+
+.citiesinrange{
+    color: white;
+}
+
+
+
+@media only screen and (min-width: 768px){
+    .buttons{
+        margin-left: 300px; 
+    }
+
+    .firstbutton{
+        height: 50px;
+        width: 300px;
+    }
+
+    .secondbutton{
+        height: 50px;
+        margin-top: 10px;
+        width: 300px;
+    }
+
+    .graphicsframe{
+        margin-left: 340px;
+    }
+
+
+   .caption{
+       margin-left: 390px;
+       font-size: 2.7em;
+   }
+
+
+   .subcaption{
+       margin-left: 470px;
+   }
+
+   .graphicsimg1 {
+    height: 100px;
+    
+}
+
+.graphicsimg2 {
+   
+    height: 100px;
+}
+
+
+.graphicsimg3 {
+    height: 110px;
+}
+
+#livecity{
+    margin-left: 240px;
+    width: 250px;
+    border-color: none;
+    color: orangered;
+    margin-top: 100px;
+    font-family: 'Exo', sans-serif;
+}
+
+
+.selectedcities{
+    margin-top: -90px;
+}
+
+
+
+#output1{
+    margin-left: 220px;
+    margin-top: 100px;
+    font-size: 1.7em;
+}
+
+#output2{
+    margin-left: 650px;
+    margin-top: -100px;
+    font-size: 1.7em;
+}
+
+#output3{
+    margin-left: 240px;
+    margin-top: 90px;
+    font-weight: bold;
+    font-size: 1.7em;
+   
+}
+
+
+#output4{
+   margin-left: 640px;
+   margin-top: -35px;
+   font-size: 1.7em;
+   
+  
+  
+}
+
+
+
+
+    .logo{
+       height: 54px;
+    }
+    .contentboxc1{
+        margin-left: 140px;
+    }
+    
+    .contentboxc2{
+        margin-left: 640px;
+        margin-top: -130px;
+    }
+    
+    
+
+
+
+    .result1{
+        
+        color: white;
+        margin-top: 130px;
+        margin-left: -400px;
+        font-size: 1.0em;
+    }
+    
+    .resulttext1{
+        padding-left: 20px;
+    }
+
+    .resulttext2{
+        padding-left: 20px;
+    }
+
+  
+    
+    .inputfieldbg{
+        background-color: transparent;
+    }
+
+
+
+  
+    #cityname{
+        width: 300px;
+        height: 35px;
+    }
+
+    #addbutton{
+        height: 35px;
+    }
+
+    .subheading{
+        margin-top: 80px;
+    }
+
+    .subheading3{
+        margin-top: 20px;
+    }
+
+    .list-group-item{
+        
+        margin-left: 200px;
+        margin-top: -67px;
+    }
+    
+    #daysselector{
+        height: 35px;
+    }
+
+    .resultday1{
+        margin-left: 170px;
+        margin-top: 100px;
+        
+    }
+    .resultday2{
+        margin-left: 370px;
+        margin-top: -130px;
+        
+    }
+
+    .resultday3{
+        margin-left: 570px;
+        margin-top: -130px;
+        
+    }
+
+    .resultday4{
+        margin-left: 770px;
+        margin-top: -130px;
+        
+    }
+    
+
+    .contentboxc3{
+     margin-left: 200px;
+     margin-top: -60px;
+    }
+
+
+    .resultscities{
+        margin-top: 30px;
+        margin-left: 680px;
+    }
+    
+    
+
+}
+
+
+
+
+    
+@media only screen
+and (min-width : 1224px) {
+
+    .logo{
+        margin-left: 70px;
+        margin-top: -15px;
+    }
+
+    .buttons{
+       margin-left: 450px;
+    }
+
+    #firstbutton{
+        height: 70px;
+        width: 450px;
+        font-size: 1.2em;
+
+}
+
+
+.graphicsframe{
+    margin-left: 560px;
+}
+
+
+.caption{
+   margin-left: 600px;
+   font-size: 2.7em;
+}
+
+
+.subcaption{
+   margin-left: 660px;
+   font-size: 1.5em;
+   color: white;
+   
+}
+
+
+#secondbutton{
+    margin-top: 20px;  
+    height: 70px;
+    width: 450px;
+    font-size: 1.2em;
+    
+}
+
+
+
+.graphicsimg { 
+    margin-left: -10px;
+    margin-top: 170px;
+}
+
+.logo{
+    height: 64px;
+}
+
+
+#livecity{
+    margin-left: 350px;
+    width: 350px;
+    border-color: none;
+    color: orangered;
+    margin-top: 100px;
+    font-family: 'Exo', sans-serif;
+}
+
+#livebutton{
+    width: 90px;
+}
+
+
+
+#output1{
+    margin-left: 340px;
+    margin-top: 100px;
+    font-size: 2.7em;
+}
+
+#output2{
+    margin-left: 950px;
+    margin-top: -100px;
+    font-size: 2.7em;
+}
+
+#output3{
+    margin-left: 390px;
+    margin-top: 190px;
+    font-weight: bold;
+    font-size: 2.0em;
+   
+}
+
+
+#output4{
+   margin-left: 960px;
+   margin-top: -35px;
+   font-size: 2.0em;
+   
+  
+  
+}
+
+
+
+.selectedcities{
+    margin-left:0px;
+    margin-top: 0px;
+
+}
+
+
+
+
+
+.headline{
+    font-size: 2em;
+    margin-top: 60px;
+}
+
+
+.headline br{
+    display: none;
+    
+}
+
+.subheading{
+    margin-top: 50px;
+    font-size: 1.2em;
+}
+
+.contentboxc1{
+    margin-left: 240px;
+    
+}
+
+
+.contentboxc2{
+    margin-left: 770px;
+    margin-top: -120px;
+}
+
+
+
+.Range2{
+    margin-top: 30px;
+}
+
+.subheading2{
+    margin-left: 40px;
+    color: white;
+}
+
+#parameter{
+    color: orange;
+    float: left;
+}
+
+
+#daysselector{
+    width: 50px;
+}
+
+
+
+
+.result1{
+    float: left;
+    margin-top: 100px;
+    margin-left: -1000px;
+    font-size: 1.0em;
+}
+
+
+
+
+.contentboxc3{
+    margin-left: 400px;
+    margin-top: -70px;
+   }
+
+
+   .cities-list{
+       margin-bottom: 0px;
+       margin-left: -80px;
+       
+       
+   }
+  
+   .delete1{
+    color: green;
+    margin-left: 30px;
+    font-size: 0.7em;
+    margin-top: 0px;
+    float: none;
+}
+
+.delete{
+    color: red;
+    font-family: 'Exo', sans-serif;
+}
+
+
+.subheading3{
+    margin-top: 30px;
+}
+
+.tests{
+    margin-top: 0px;
+    margin-left: 90px;
+}
+
+.resultscities{
+    margin-top: 20px;
+    margin-left: 810px;
+}
+
+
+}   
+    
+ 
